@@ -1,0 +1,13 @@
+{
+  "workbench.settings.useSplitJSON": true,
+  "liveServer.settings.root": "",
+  "liveServer.settings.ignoreFiles": [
+    
+
+    ".vscode/**",
+    "**/*.scss",
+    "**/*.sass",
+    "**/*.ts",
+    "**/db.json"
+  ]
+}
